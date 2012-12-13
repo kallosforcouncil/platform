@@ -1,0 +1,11 @@
+# Solution for Technology: Expand the effectiveness of the City government by deputizing thousands through the use of new technologies like a Twitter Hashtag. #
+
+submitted by: kallos
+submitted_dt: 
+upvotes: 48
+issue: Technology
+
+Many people now tweet. I tweet @Green4NY, the City Council tweets @NYCCouncil, and now 311 does as @311NYC. Twitter is a great way to get a message out to the world in 140 characters or less, recently becoming a major news source in the aftermath of the Iranian Elections. With the launch of @311NYC, the City has pledged to "'tweet' information regularly about such things as alternate side of the street parking status, school closures and information about citywide events." But this fails to take government to Government 2.0 where it is both a source and consumer of information. The true power of Twitter is that it can collect every tweet using a keyword called a hashtag, which is a predetermined keyword starting with the pound sign (#) used to build a community around a specific issue. During the swine flu epidemic, the community adopted the hashtag of #swineflu and for the Iranian elections #iranelection, both of which allowed other users, governments, and the news media to keep track of what was going on. In our City, we should use a hashtag like #NYCWatch or #311NYC for tracking local issues through the Public Advocate's office which will in effect deputize every Twitter user in New York City as we follow, re-tweet, respond, direct message and track new problem trends so that we can solve them.
+
+url: (https://kallosforcouncil.com/solution/technology/expand-effectiveness-city-government-deputizing-thousands-through-use-new-techno)[https://kallosforcouncil.com/solution/technology/expand-effectiveness-city-government-deputizing-thousands-through-use-new-techno]
+pdf_url: [https://kallosforcouncil.com/printpdf/solution/technology/expand-effectiveness-city-government-deputizing-thousands-through-use-new-techno](https://kallosforcouncil.com/printpdf/solution/technology/expand-effectiveness-city-government-deputizing-thousands-through-use-new-techno)

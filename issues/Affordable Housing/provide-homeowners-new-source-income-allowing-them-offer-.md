@@ -1,0 +1,12 @@
+# Solution for Affordable Housing: Provide homeowners with a new source of income by allowing them to offer affordable housing through a new building code for an "accessory dwelling unit." #
+
+submitted by: kallos
+submitted_dt: 
+upvotes: 42
+issue: Affordable Housing
+
+The Pratt Center for Community Development and Chhaya Community Development Corporation estimate that between 1990 and 2000 New York City gained 114,000 housing units that are not reflected in the number of certificates of occupancy that were granted for new construction or renovation. These units are often unsafe, existing in private homes converted into rooming houses, unauthorized basement apartments, or commercial lofts rented as residences. In the report researchers admit that illegal units are hard to track with landlords unwilling to reveal them for fear of fines and tenants not daring to report unsafe conditions for fear of evictions or worse. While unsafe living conditions for immigrants in New York are as old as the City itself, we should not need the talent of Jacob Riis and a modern “How the Other Half Lives” to usher in reforms. With the 2010 census coming up it is also imperative that we get these units counted so that local residents are provided with the valuable resources they need.
+We can follow the lead of Massachusetts, California and seven other states that have adopted an “accessory dwelling unit” (ADU) to provide necessary safety regulation. Tenants would gain safe conditions, regulatory protection and a rent regulated unit; existing landlords would be provided with amnesty and a grace period; both existing and new landlords would be encouraged to build new or improve old units through financial and technical assistance; and the City would gain hundreds of thousands of affordable housing units along with assurance of a more accurate census count.
+
+url: (https://kallosforcouncil.com/solution/affordable-housing-transportation/provide-homeowners-new-source-income-allowing-them-offer-)[https://kallosforcouncil.com/solution/affordable-housing-transportation/provide-homeowners-new-source-income-allowing-them-offer-]
+pdf_url: [https://kallosforcouncil.com/printpdf/solution/affordable-housing-transportation/provide-homeowners-new-source-income-allowing-them-offer-](https://kallosforcouncil.com/printpdf/solution/affordable-housing-transportation/provide-homeowners-new-source-income-allowing-them-offer-)

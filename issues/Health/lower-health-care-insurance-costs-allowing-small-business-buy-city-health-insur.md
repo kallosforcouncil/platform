@@ -1,0 +1,11 @@
+# Solution for Health: Lower health care insurance costs by allowing small business to buy into City health insurance plans. #
+
+submitted by: kallos
+submitted_dt: 
+upvotes: 63
+issue: Health
+
+New York City health insurance costs have recently risen 13 percent annually, with average monthly family health insurance premiums rising from $3,866 last April to $4,354 this April. For perspective, monthly premiums now exceed the cost of renting a two-bedroom apartment in a building in the Financial District. As a result, healthier and younger New Yorkers drop coverage and leave insurers with an even sicker and costlier client pool. Should an uninsured person get injured and be unable to pay their medical bill, taxpayers must cover the expense. While the Federal government works its way towards universal health care, the City government should also investigate opening its health insurance plans to small businesses, so that (a) the businesses can benefit from increased bargaining power and (b) City benefits from lower rates coming from a larger and healthier risk pool.
+
+url: (https://kallosforcouncil.com/solution/health-jobs/lower-health-care-insurance-costs-allowing-small-business-buy-city-health-insur)[https://kallosforcouncil.com/solution/health-jobs/lower-health-care-insurance-costs-allowing-small-business-buy-city-health-insur]
+pdf_url: [https://kallosforcouncil.com/printpdf/solution/health-jobs/lower-health-care-insurance-costs-allowing-small-business-buy-city-health-insur](https://kallosforcouncil.com/printpdf/solution/health-jobs/lower-health-care-insurance-costs-allowing-small-business-buy-city-health-insur)

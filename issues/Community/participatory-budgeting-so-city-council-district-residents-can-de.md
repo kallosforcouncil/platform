@@ -1,0 +1,11 @@
+# Solution for Community: Participatory Budgeting so that City Council district residents can decide how government spends millions in tax dollars #
+
+submitted by: admin
+submitted_dt: 
+upvotes: 44
+issue: Community
+
+Participatory budgeting (PB) is a democratic process in which community members directly decide how to spend part of a public budget. In other words, the people who pay taxes (all of us) decide how tax dollars get spent.New York City is experiencing a new kind of democracy. Through Participatory Budgeting, residents of four Council Districts are directly deciding how to spend around $6 million of public money. From October 2011 to March 2012, community members are exchanging ideas, working together to turn ideas into project proposals, and voting to decide what proposals get funded.In April 2012 four City Council Members Announced their Patricipatory Budgeting Awards:District 8 - Melissa Mark-Viverito (Manhattan/Bronx)District 32 - Eric Ulrich (Queens)District 39 - Brad Lander (Brooklyn)District 45 - Jumaane Williams (Brooklyn)
+
+url: (https://kallosforcouncil.com/solution/community-good-government/participatory-budgeting-so-city-council-district-residents-can-de)[https://kallosforcouncil.com/solution/community-good-government/participatory-budgeting-so-city-council-district-residents-can-de]
+pdf_url: [https://kallosforcouncil.com/printpdf/solution/community-good-government/participatory-budgeting-so-city-council-district-residents-can-de](https://kallosforcouncil.com/printpdf/solution/community-good-government/participatory-budgeting-so-city-council-district-residents-can-de)

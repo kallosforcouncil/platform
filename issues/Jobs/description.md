@@ -1,0 +1,6 @@
+# Jobs #
+
+In these difficult economic times we must reform our regressive tax system, not create new draconian sales taxes that burden our City's working families, while cutting vital services like health care and education that we need. We should create new economic incentive programs to encourage growth and job creation. I had the privilege of working on one such progressive economic program, the Second Avenue Subway Construction Grants Program, while serving as Chief of Staff to Assemblyman Jonathan L. Bing. This program would provide economic and technical support to small businesses that were negatively affected by the construction of the Second Avenue Subway. Through innovative economic development and tax reform we will combat the threat of rows of empty store fronts and maintain a vibrant community by helping to keep small independently owned and operated businesses open and preserving jobs through even the most difficult of economic times.
+
+
+url: [https://kallosforcouncil.com/solutions/Jobs](https://kallosforcouncil.com/solutions/Jobs)

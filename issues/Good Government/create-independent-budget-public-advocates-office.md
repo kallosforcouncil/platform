@@ -1,0 +1,11 @@
+# Solution for Good Government: Create an independent budget for the Public Advocate's office. #
+
+submitted by: kallos
+submitted_dt: 
+upvotes: 37
+issue: Good Government
+
+It's absurd that the budget for a 178 year old, charter-mandated City office intended to be a watchdog over City Hall is decided by City Hall. For the Office of the Public Advocate to be able to fulfill its charter obligations, the budget for the office must be removed from the political process. Let's create an independent budget for the Public Advocate's office, tying it to the budget of a Mayoral agency or the City Council, similar to how the budgets of Independent Budget Office and Office of Management and Budget are tied together.
+
+url: (https://kallosforcouncil.com/solution/good-government/create-independent-budget-public-advocates-office)[https://kallosforcouncil.com/solution/good-government/create-independent-budget-public-advocates-office]
+pdf_url: [https://kallosforcouncil.com/printpdf/solution/good-government/create-independent-budget-public-advocates-office](https://kallosforcouncil.com/printpdf/solution/good-government/create-independent-budget-public-advocates-office)

@@ -1,0 +1,12 @@
+# Solution for Technology: Implement “Open 311” by making information collected on 311 available over the Internet in real time. #
+
+submitted by: kallos
+submitted_dt: 
+upvotes: 52
+issue: Technology
+
+""Open 311"" would be the next logical step for the 311 by allowing for the open collection and dissemination of information relating to government services over the Internet and other communications methods in real time. The key element would be to allow the vast network of Internet users to develop their own applications for interacting with this important information. The City of Washington, D.C. has already implemented this reform, providing savings through direct input by users, lowering call volume by publishing what’s already been submitted and when, enhancing accountability and transparency by showing when real problems are growing or have been fixed -- and most importantly, it can provide an opportunity for civic participation and building a culture of competition for serving your community.
+This “do-gooder one-upsmanship” helps residents to build a reputation and community around accomplishments by allowing “Open 311” participants to be featured in a community created “Top 100” or to post notices of their good deeds on social media sites like Facebook or Twitter. Applications produced in the “Apps for Democracy” competitions to make government information useful included “SeeClickFix,” “Easy311,” and “DC311” which provide online, location-aware and social-media based 311 tools that allow people to submit a complaint in seconds and share the complaint online for the world to see. While sites like “SeeClickFix” currently allow people to submit problems anywhere in the world, including New York City, the Internet community is eagerly awaiting our City’s adoption of an “Open 311” platform so that complaints from anyone can be integrated right into the existing 311 system.
+
+url: (https://kallosforcouncil.com/solution/technology/implement-%E2%80%9Copen-311%E2%80%9D-making-information-collected-311-available-over-internet-re)[https://kallosforcouncil.com/solution/technology/implement-%E2%80%9Copen-311%E2%80%9D-making-information-collected-311-available-over-internet-re]
+pdf_url: [https://kallosforcouncil.com/printpdf/solution/technology/implement-%E2%80%9Copen-311%E2%80%9D-making-information-collected-311-available-over-internet-re](https://kallosforcouncil.com/printpdf/solution/technology/implement-%E2%80%9Copen-311%E2%80%9D-making-information-collected-311-available-over-internet-re)
