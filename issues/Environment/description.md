@@ -1,0 +1,6 @@
+# Environment #
+
+While serving as Chief of Staff to Assembly Member Jonathan L. Bing our office received an honor from the New York League of Conservation Voters for introducing environmentally friendly legislation that helped enable the MTA's Select Bus Program.As someone who grew up in New York City and State the environment including our City and State parks, greenways such as running and bike paths, and waterways are of integral importance.  As a child I grew up playing in Carl Schurz and John Jay parks, and as an adult I've hiked in our State parks with Surprise Lake Camp, biked over 75+ miles of our greenways with Transportation Alternatives, swam across the East River with NYC Swim and in the Hudson River with the New York City Triathlon, and trained everywhere with the Asphalt Green Triathlon team.As an avid user of our City and States natural resources, you won't find a better advocate for our environment.  After all what other candidate would fight to keep the City's rivers clean enough to swim in?
+
+
+url: [https://kallosforcouncil.com/solutions/Environment](https://kallosforcouncil.com/solutions/Environment)

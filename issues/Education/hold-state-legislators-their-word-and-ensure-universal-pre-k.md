@@ -1,0 +1,11 @@
+# Solution for Education: Hold State legislators to their word and ensure that Universal Pre-K #
+
+submitted by: kallos
+submitted_dt: 
+upvotes: 39
+issue: Education
+
+The average family spends almost $10,000 a year on child care with child care costs increasing at almost $1000 annually. One way to alleviate this problem is to implement universal pre-K, which costs less than $5,000 per child. Pre-k is not just an education issue but also an economics issue, giving parents greater freedom to work and more money to spend. Universal Pre-k will also decrease day care costs as demand decreases. Child care costs are one of the primary reasons young mothers do not attend college. Studies are unclear about exactly how much of a positive impact pre-k has on students, but even detractors admit that kids have gains over the next few years – which is something educators can build on. Placing children into a program with peers also allows them to develop their social skills early. The State government has been promising universal pre-K since 2002, currently pushed back. We must hold state legislators to their word and make sure that funds are allocated for universal pre-K.
+
+url: (https://kallosforcouncil.com/solution/education/hold-state-legislators-their-word-and-ensure-universal-pre-k)[https://kallosforcouncil.com/solution/education/hold-state-legislators-their-word-and-ensure-universal-pre-k]
+pdf_url: [https://kallosforcouncil.com/printpdf/solution/education/hold-state-legislators-their-word-and-ensure-universal-pre-k](https://kallosforcouncil.com/printpdf/solution/education/hold-state-legislators-their-word-and-ensure-universal-pre-k)

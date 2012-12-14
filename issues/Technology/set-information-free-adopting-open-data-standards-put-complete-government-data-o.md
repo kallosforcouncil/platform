@@ -1,0 +1,12 @@
+# Solution for Technology: Set information free by adopting "Open Data" standards to put complete government data online in real-time so that Internet users can make it usable. #
+
+submitted by: kallos
+submitted_dt: 
+upvotes: 66
+issue: Technology
+
+This year President Obama launched DATA.GOV in order to provide the public with increased access to information collected by the Executive Branch of the Federal Government. Following our President's lead, New York City should make government information available in real-time online through a commitment to eight principles of open data written in December of 2007 by thirty open government advocates, including Lawrence Lessig of Stanford University, Micah Sifry of the Sunlight Foundation, who founded the Personal Democracy Forum, David Moore of the Participatory Politics Foundation, Carl Malamud of Public.Resource.org, as well as Google, Yahoo, and O’Reilly Media. The eight principles require data to be (1) complete, (2) primary (with the finest possible granularity), (3) timely, (4) accessible, (5) machine readable, (6) non-discriminatory, (7) non-proprietary (so that no entity has exclusive control), and (8) license free; all of which would require reasonable privacy, security and privilege and full review of compliance.
+As Chair of COPIC the Public Advocate would work with City agencies to restore the public trust through the adoption of “Open Data.” We would also support the passage of Council Member Brewer’s Introduction Number 991 of 2009 legislating “Open Data” with certain amendments to include oversight from COPIC, implementation standards, and the automatic waiver of statutory FOIL costs for non-electronic materials produced after July 4, 2010. Whether it is through the passage of new City laws or aggressively using the Public Advocate’s charter powers, “Open Data” can be implemented so that we may soon have a transparent, accountable and open government.
+
+url: (https://kallosforcouncil.com/solution/technology/set-information-free-adopting-open-data-standards-put-complete-government-data-o)[https://kallosforcouncil.com/solution/technology/set-information-free-adopting-open-data-standards-put-complete-government-data-o]
+pdf_url: [https://kallosforcouncil.com/printpdf/solution/technology/set-information-free-adopting-open-data-standards-put-complete-government-data-o](https://kallosforcouncil.com/printpdf/solution/technology/set-information-free-adopting-open-data-standards-put-complete-government-data-o)

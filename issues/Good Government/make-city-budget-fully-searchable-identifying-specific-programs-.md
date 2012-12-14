@@ -1,0 +1,11 @@
+# Solution for Good Government: Make the City budget fully searchable identifying specific programs along with information on populations and geographic areas that will be effected by changes to the budget. #
+
+submitted by: kallos
+submitted_dt: 
+upvotes: 66
+issue: Good Government
+
+Even with recent improvements by the Independent Budget Office, the New York City budget process still remains opaque as journalists and residents try to understand differences between the Mayor's budget, the City Council budget and the final budget. Details are often presented through press releases that discuss reductions, restorations and other often indecipherable budget lingo. A “User Friendly” budget would list last year’s allocation alongside the allocations by the proposed budgets from the Mayor, City Council and the final budget indicating the number of residents affected and, say, the specific programs to be cut. The next budget should not be released to the public as a PDF, but in compliance with “Open Data,” outlined above, as an Excel or a comma-separated-value (CSV) file so that the information can be easily analyzed. New York City should also follow the example of the Missouri Accountability Portal and put its State’s budget online. The Office of the Mayor’s Budget and the Independent Budget Office should work together with COPIC to make the Budget searchable by keyword, agency, service, borough, community board, zip code, address and even geocode for an iPhone or Blackberry user. This way the information can be understood and is relevant to an average New Yorker along with the elected officials who are responsible for negotiating it.
+
+url: (https://kallosforcouncil.com/solution/good-government-technology/make-city-budget-fully-searchable-identifying-specific-programs-)[https://kallosforcouncil.com/solution/good-government-technology/make-city-budget-fully-searchable-identifying-specific-programs-]
+pdf_url: [https://kallosforcouncil.com/printpdf/solution/good-government-technology/make-city-budget-fully-searchable-identifying-specific-programs-](https://kallosforcouncil.com/printpdf/solution/good-government-technology/make-city-budget-fully-searchable-identifying-specific-programs-)

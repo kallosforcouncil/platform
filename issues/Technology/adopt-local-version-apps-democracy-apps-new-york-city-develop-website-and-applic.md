@@ -1,0 +1,12 @@
+# Solution for Technology: Adopt local version of "Apps for Democracy" with "Apps for New York City" to develop website and applications with City data. #
+
+submitted by: kallos
+submitted_dt: 
+upvotes: 47
+issue: Technology
+
+Earlier this year President Obama launched DATA.GOV in order to provide the public with increased access to information collected by the Executive Branch of the Federal Government. Immediately after, the Sunlight Foundation launched “Apps for America: The DATA.GOV Challenge” to encourage the development of dozens of applications for people to use in understanding government information. This was based on a similar model adopted in Washington, D.C. with the "Apps for Democracy" initiative, an open-to-the-public contest for making government information useful, which yielded 47 web, iPhone and Facebook applications and resulted in a $2.3 million value to the City.
+In the weeks following our initial proposal of “Open Data” and “Apps for New York City,” as a part of “Our Next Economy: THE Creative City,” Mayor Bloomberg has announced “NYC Big Apps” where members of the public would be encouraged to use 80 data sets from the City to create innovative application for a cash prize, marketing and a dinner with Mayor Bloomberg. While we applaud this effort, it falls short of “Apps for Democracy” by failing to provide the same quality of information that is live or interactive in compliance with “Open Data.” Council Member Gale Brewer has also concluded that “NYC Big Apps” fails to even acknowledge that the “data sets” must also be released as “Open Data” so that contestants and the public – not only government – can decide what information is important and what isn’t as they turn it into something useful.
+
+url: (https://kallosforcouncil.com/solution/technology/adopt-local-version-apps-democracy-apps-new-york-city-develop-website-and-applic)[https://kallosforcouncil.com/solution/technology/adopt-local-version-apps-democracy-apps-new-york-city-develop-website-and-applic]
+pdf_url: [https://kallosforcouncil.com/printpdf/solution/technology/adopt-local-version-apps-democracy-apps-new-york-city-develop-website-and-applic](https://kallosforcouncil.com/printpdf/solution/technology/adopt-local-version-apps-democracy-apps-new-york-city-develop-website-and-applic)
