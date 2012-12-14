@@ -1,0 +1,4 @@
+logbook
+lxml
+scrapelib
+jinja2

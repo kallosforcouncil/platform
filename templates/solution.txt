@@ -1,0 +1,11 @@
+# {{title}} #
+
+submitted by: {{submitter}}
+submitted_dt: {{submitted_dt}}
+upvotes: {{upvotes}}
+issue: {{issue}}
+
+{{explanation}}
+
+url: ({{url}})[{{url}}]
+pdf_url: [{{pdf_url}}]({{pdf_url}})
