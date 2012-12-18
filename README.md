@@ -5,7 +5,7 @@ NEW YORK CITY COUNCIL CANDIDATE BENJAMIN KALLOS
 
 OPEN PLATFORM
 
-This is the first political platform posted to GitHub as well as on a Drupal site where our solutions are going out to anyone who can improve them.  The way that free and open source software make better code and the way government code should be made better.  
+This is the first political platform posted to GitHub as well as on a Drupal site where our solutions are going out to anyone who can improve them.  The way that free and open source makes computer code better is the way government code can also be made better.  
 
 Please support our campaign for a better city, if not a better world, by reviewing our platform, and improving our policy positions on the GitHub or on our Drupal site at http://KallosForCouncil.com.
 
