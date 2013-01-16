@@ -2,7 +2,7 @@
 
 submitted by: Snadel1
 submitted_dt: 
-upvotes: 34
+upvotes: 53
 issue: Roosevelt Island
 
 Currently, the future of the Steam Plant, which is located near Goldwater Hospital, is uncertain. Rather than demolishing the Steam Plant, we propose converting it into a museum similar to London’s Tate Modern. This museum will attract visitors and provide a permanent space for Gallery RIVAA.

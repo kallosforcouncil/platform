@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 50
+upvotes: 63
 issue: Education
 
 Let's revitalize New York's connection to the arts, as well as our City's artistic potential and talent, by creating a rotating collection of local art through a private-public partnership fund called "Art for Public's Sake". Artists would be paid very modestly to let their work be displayed in the public areas and government buildings. After a period of time the art would be moved to a new building, for a new set of people to see and appreciate. Every few years we would return the work to the artist and update our collection.

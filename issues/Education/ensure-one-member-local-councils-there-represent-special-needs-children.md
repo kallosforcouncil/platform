@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 50
+upvotes: 74
 issue: Education
 
 There are more than 180,000 special needs children in our education system who have lower rates of achievement and graduation than anywhere else in the State. Partly this is due to the fact that organization for special needs students is fragmented, with District 75 as well as 18 different entities. There are delays in evaluations, and in the placement of students into programs. Let’s empower the parents of special needs students by requiring that one of the two selections Borough Presidents make for Community Education Councils is a parent of a special needs kid or is there to represent them.

@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 47
+upvotes: 66
 issue: Technology
 
 Wikipedia, founded in 2001, has changed the world by making almost 3 million articles available in a mission to cover all of existing knowledge that is written, edited, and maintained by a self managed volunteer community. This "wiki" technology was also integrated into Google Search last year because they understand that on the Internet, no one of us is smarter than all of us and users can improve search results for all other users by letting them modify results and leave notes for themselves and others on the topic. By creating a "New York City Wiki" or integrating a “wiki” into NYC.GOV, we can allow New Yorkers to help one another navigate and take advantage of City government services by sharing their knowledge with plain English explanations. For instance, a restauranteur could edit the NYC.GOV page where others go to download a complicated license giving plain English instructions and sharing personal experiences to help other restauranteurs fill out the form. Such a method of creating content from users for users on the NYC.GOV site would truly benefit the City community.

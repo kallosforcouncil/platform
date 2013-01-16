@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 37
+upvotes: 55
 issue: Good Government
 
 A well functioning democracy requires citizen engagement that is best accomplished through open meetings where members of the public have an opportunity to testify. Unfortunately, just in the month of June this year, all of the City Council's public meetings posted on their calendar occurred on weekdays during business hours with only one meeting happening in the community instead of at City Hall or in the adjacent 250 Broadway Hearing Rooms. We can put the "public" back in public hearings by expanding times, location and methods of testimony to catch up with the 21st Century. City agencies should endeavor to have public hearings in the evenings or weekends when residents can participate. Testimony should be accepted in any language and should follow the New York State Senate example of accepting testimony by YouTube and expand it to include phone in, PowerPoint with voice over, Skype, live chat accompanying a streaming broadcast and whatever technology may come up in the near future. Similarly, all hearings should be available on YouTube, PodCast, or electronic transcript so that interested New Yorkers can engage their government on their own terms.

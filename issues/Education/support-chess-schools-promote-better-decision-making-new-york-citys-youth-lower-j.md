@@ -2,7 +2,7 @@
 
 submitted by: admin
 submitted_dt: 
-upvotes: 19
+upvotes: 36
 issue: Education
 
 Follow the model spotlighted by Brooklyn Castle to support Chess in Schools throughout New York City in order to lower juvenile delinquency, drug use, and teen pregnancy while saving $2.50 for every $1 we spend on the program in our long term criminal justice budgeting.  Lets invest in our children's future not in prisons!

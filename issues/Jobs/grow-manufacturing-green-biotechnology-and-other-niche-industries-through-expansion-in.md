@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 58
+upvotes: 69
 issue: Jobs
 
 Industrial Business Zone tax credits should be expanded from simply a relocation benefit to also subsidize conversion of existing manufacturing space to provide affordable biotechnology or green manufacturing spaces to help keep those sectors growing in our City.

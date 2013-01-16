@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 57
+upvotes: 70
 issue: Jobs
 
 Manufacturing remains integral to a sustainable and economically diversified City, even one that is post-industrial. While we may not build cars here, we have become a City of intelligent niche manufacturers, who make everything from gloves for entertainers to parts for the Hubble space telescope and military equipment that keeps our soldiers safe abroad, as described in a recent Daily News article. Industrial Business Zones (IBZs) can provide a framework for keeping manufacturing space affordable and increase investment, but will need tougher restrictions to keep higher-rent big-box retail outlets, entertainment, bars and clubs out of designated areas. A codification of the Mayor’s promise not to rezone IBZs to mixed use or residential areas will increase confidence that any future changes would be subject to larger review as well as the political process.

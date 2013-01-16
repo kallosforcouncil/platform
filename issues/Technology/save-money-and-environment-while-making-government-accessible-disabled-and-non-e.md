@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 58
+upvotes: 67
 issue: Technology
 
 Many of our public notice laws were written generations ago when the best way to share information was through the mail or radio, long before television, the telephone or even the Internet. As new communication technologies have appeared, they have lowered communication costs and improved access to information for non-English speakers and the disabled. Like many of you, my family has opted into getting paperless banking statements, which allows the bank to save on the cost of printing and postage, and the world is a little greener from the reduced waste. But why can't we do the same for City government? New Yorkers should be able to call 311 or go to My.NYC.GOV and sign up to receive certain government notices in the language of their choosing by first class mail, electronic mail, or even over the phone, choosing one, a few, or even all of the options. Many people, including my family, non-English speakers, and many in the disabled community, would prefer to get notices electronically and in our preferred language, saving the City printing and postage costs while creating a Greener City.

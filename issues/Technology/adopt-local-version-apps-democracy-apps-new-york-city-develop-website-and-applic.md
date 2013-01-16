@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 47
+upvotes: 59
 issue: Technology
 
 Earlier this year President Obama launched DATA.GOV in order to provide the public with increased access to information collected by the Executive Branch of the Federal Government. Immediately after, the Sunlight Foundation launched “Apps for America: The DATA.GOV Challenge” to encourage the development of dozens of applications for people to use in understanding government information. This was based on a similar model adopted in Washington, D.C. with the "Apps for Democracy" initiative, an open-to-the-public contest for making government information useful, which yielded 47 web, iPhone and Facebook applications and resulted in a $2.3 million value to the City.

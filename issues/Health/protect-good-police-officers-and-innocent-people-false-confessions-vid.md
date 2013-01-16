@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 50
+upvotes: 59
 issue: Health
 
 All five of the suspects – including four juveniles – who faced trial in the Central Park Jogger case spent between 14 to 30 hours in interrogation and ended up confessing to and being convicted of a crime that they did not commit, only to have their convictions vacated twelve years later after DNA evidence was found identifying the true culprit. Many police departments across the nation have adopted the practice of videotaping interrogations while the District of Columbia has passed a law requiring them. We can prevent future miscarriages of justice, protect the innocent as well as good police officers from false allegations by requiring all interrogations be videotaped.

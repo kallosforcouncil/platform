@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 47
+upvotes: 60
 issue: Environment
 
 Phasing in congestion pricing would vastly improve transportation in New York City while we wait for infrastructure improvements to catch up with growth. The Partnership for New York City estimates that eliminating excess traffic congestion would add as much as $4 billion and 52,000 jobs to the regional economy, along with reducing losses of $2 billion in revenue and 8,674 jobs in the manufacturing sector, on an annual basis. Let's renew our effort to bring congestion pricing to New York by allowing Albany legislators greater say in how it is implemented.

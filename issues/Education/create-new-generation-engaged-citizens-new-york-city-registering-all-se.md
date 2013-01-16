@@ -2,7 +2,7 @@
 
 submitted by: admin
 submitted_dt: 
-upvotes: 27
+upvotes: 38
 issue: Education
 
 New York State voter turnout is last or second to last in the nation depending on the election with many New Yorkers fealing disengaged or apathetic about politics.  With such low voter turnout elected officials are often left to their own devices.  Acording to Citizen's Union more legislators are leaving office after criminal or ethical misconduct rather than being voted out by voters.

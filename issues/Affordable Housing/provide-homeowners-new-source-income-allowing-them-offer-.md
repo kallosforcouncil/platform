@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 44
+upvotes: 86
 issue: Affordable Housing
 
 The Pratt Center for Community Development and Chhaya Community Development Corporation estimate that between 1990 and 2000 New York City gained 114,000 housing units that are not reflected in the number of certificates of occupancy that were granted for new construction or renovation. These units are often unsafe, existing in private homes converted into rooming houses, unauthorized basement apartments, or commercial lofts rented as residences. In the report researchers admit that illegal units are hard to track with landlords unwilling to reveal them for fear of fines and tenants not daring to report unsafe conditions for fear of evictions or worse. While unsafe living conditions for immigrants in New York are as old as the City itself, we should not need the talent of Jacob Riis and a modern “How the Other Half Lives” to usher in reforms. With the 2010 census coming up it is also imperative that we get these units counted so that local residents are provided with the valuable resources they need.

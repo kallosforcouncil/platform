@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 56
+upvotes: 68
 issue: Jobs
 
 The City’s current welfare-to-work program focuses on getting job seekers into the workforce as soon as possible. Let’s instead focus on education and training, so that welfare recipients get into good paying jobs in which they can build a career. This will improve economic growth and ensure that those passing through the welfare program have the skills needed to compete in the modern economy. The State Legislature should revisit legislation to have welfare offices take steps towards emphasizing nontraditional employment and jobs paying over 185 percent of the poverty rate.
