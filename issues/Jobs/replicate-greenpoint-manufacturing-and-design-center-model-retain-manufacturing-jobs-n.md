@@ -2,7 +2,11 @@
 
 submitted by: kallos
 submitted_dt: 
+<<<<<<< HEAD
 upvotes: 414
+=======
+upvotes: 68
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Jobs
 
 The Greenpoint Manufacturing and Design Center (GMDC) owns and operates rehabilitated industrial buildings, offering start-up manufacturing firms and artisan tenants below market rents, employing hundreds of people. Especially as commercial rents fall in this economic downturn, let's replicate the GMDC program throughout New York, buying vacated industrial buildings to spur industrial growth in the city.

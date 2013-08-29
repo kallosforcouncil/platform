@@ -3,9 +3,16 @@
     "title": "Solution for Jobs: Increase access to business and workforce development programs by putting them online.", 
     "url": "https://kallosforcouncil.com/solution/jobs/increase-access-business-and-workforce-development-programs-putting-them-online", 
     "explanation": "Internet can make our business and workforce development centers and the courses they offer more accessible. The program that we envision would follow the\u00a0\u201cTED.com: Ideas Worth Spreading\u201d model (the YouTube just for great ideas) by working with our City\u2019s educational institutions to bring innovative and compelling experts to lecture. Speakers would be digitized and accessible with multilingual captions or dubbing for jobseekers and entrepreneurs all over our City to watch from the comfort of their own home.", 
+<<<<<<< HEAD
     "submitted_datetime": "2012-02-05T01:01:00", 
     "solution": "Increase access to business and workforce development programs by putting them online.", 
     "submitter": "kallos", 
     "upvotes": "398", 
+=======
+    "submitted_datetime": "2012-02-05T12:01:00", 
+    "solution": "Increase access to business and workforce development programs by putting them online.", 
+    "submitter": "kallos", 
+    "upvotes": "75", 
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
     "issue": "Jobs"
 }

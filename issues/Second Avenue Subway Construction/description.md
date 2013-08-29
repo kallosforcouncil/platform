@@ -3,4 +3,8 @@
 The East Side of Manhattan is currently undergoing one of the most significant construction projects in decades -- the creation of the long-awaited Second Avenue subway. The construction has begun and will eventually run through parts of most of Manhattan. While the Second Avenue Subway will eventually bring much needed transportation improvements to the East Side, it is currently having a substantially negative effect on local businesses.As former Chief of Staff for Assembly Member Jonathan L. Bing, I had the opportunity to work on drafting the Second Avenue Subway Construction Economic Development Grant Program, as well as working the MTA and Second Avenue Business Association to launch the Shop Second Avenue campaign.  While this bill originally passed both houses, it was vetoed by the Governor and has not passed both since.  I will reintroduce the legislation on a City level and continue to fight to keep and grow jobs in the district.
 
 
+<<<<<<< HEAD
 url: [https://kallosforcouncil.com/solutions/Second Avenue Subway Construction](https://kallosforcouncil.com/solutions/Second Avenue Subway Construction)
+=======
+url: [https://kallosforcouncil.com/solutions/second-avenue-subway-construction](https://kallosforcouncil.com/solutions/second-avenue-subway-construction)
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6

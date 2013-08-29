@@ -2,7 +2,11 @@
 
 submitted by: kallos
 submitted_dt: 
+<<<<<<< HEAD
 upvotes: 918
+=======
+upvotes: 419
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Technology
 
 

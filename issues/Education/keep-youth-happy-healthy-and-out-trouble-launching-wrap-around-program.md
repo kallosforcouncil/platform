@@ -2,7 +2,11 @@
 
 submitted by: Janos
 submitted_dt: 
+<<<<<<< HEAD
 upvotes: 401
+=======
+upvotes: 61
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Education
 
 The Challenge:  For many children of lower-income families, the after-school hours can be an unsupervised and dangerous part of the day. Maintaining a vibrant after-school program for those children should be a priority for local government.   Yet Mayor Bloomberg’s latest budget would cut after-school program capacity for over 30,000 children, marking the fifth year in a row that the Mayor has cut child-care and after-school programs. [1]/  

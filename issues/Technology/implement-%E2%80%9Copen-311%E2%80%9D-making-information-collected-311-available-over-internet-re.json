@@ -3,9 +3,16 @@
     "title": "Solution for Technology: Implement \u201cOpen 311\u201d by making information collected on 311 available over the Internet in real time.", 
     "url": "https://kallosforcouncil.com/solution/technology/implement-%E2%80%9Copen-311%E2%80%9D-making-information-collected-311-available-over-internet-re", 
     "explanation": "\"\"Open 311\"\" would be the next logical step for the 311 by allowing for the open collection and dissemination of information relating to government services over the Internet and other communications methods in real time. The key element would be to allow the vast network of Internet users to develop their own applications for interacting with this important information. The City of Washington, D.C. has already implemented this reform, providing savings through direct input by users, lowering call volume by publishing what\u2019s already been submitted and when, enhancing accountability and transparency by showing when real problems are growing or have been fixed -- and most importantly, it can provide an opportunity for civic participation and building a culture of competition for serving your community.\nThis \u201cdo-gooder one-upsmanship\u201d helps residents to build a reputation and community around accomplishments by allowing \u201cOpen 311\u201d participants to be featured in a community created \u201cTop 100\u201d or to post notices of their good deeds on social media sites like Facebook or Twitter. Applications produced in the \u201cApps for Democracy\u201d competitions to make government information useful included \u201cSeeClickFix,\u201d \u201cEasy311,\u201d and \u201cDC311\u201d which provide online, location-aware and social-media based 311 tools that allow people to submit a complaint in seconds and share the complaint online for the world to see. While sites like \u201cSeeClickFix\u201d currently allow people to submit problems anywhere in the world, including New York City, the Internet community is eagerly awaiting our City\u2019s adoption of an \u201cOpen 311\u201d platform so that complaints from anyone can be integrated right into the existing 311 system.", 
+<<<<<<< HEAD
     "submitted_datetime": "2012-02-05T01:01:00", 
     "solution": "Implement \u201cOpen 311\u201d by making information collected on 311 available over the Internet in real time.", 
     "submitter": "kallos", 
     "upvotes": "376", 
+=======
+    "submitted_datetime": "2012-02-05T12:01:00", 
+    "solution": "Implement \u201cOpen 311\u201d by making information collected on 311 available over the Internet in real time.", 
+    "submitter": "kallos", 
+    "upvotes": "63", 
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
     "issue": "Technology"
 }

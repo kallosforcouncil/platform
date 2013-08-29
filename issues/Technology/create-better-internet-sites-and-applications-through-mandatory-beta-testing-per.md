@@ -2,7 +2,11 @@
 
 submitted by: kallos
 submitted_dt: 
+<<<<<<< HEAD
 upvotes: 376
+=======
+upvotes: 62
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Technology
 
 Government often provides for public hearings on many issues -- on pending legislation and regulations, for examples -- because proposals can be improved through the advice and input of the public. Similarly, new software is generally released as ""beta"" which allows it to undergo usability testing with users who provide feedback so that improvements can be implemented and malfunctions fixed prior to the final version. A prime example of this practice in the marketplace is the word ""BETA"" under the ""Gmail"" logo that you may have noticed over the past few years on your Google mail account. Google as a company acknowledges how important the user is in developing usable websites and applications. Unfortunately, the New York City and State governments often provide its users with new websites and applications as a finished product, rejecting requests for improvement by citing projected cost overruns. Sometimes the websites and applications even turn out not to comply with the Americans with Disabilities Act (ADA). The next Public Advocate should introduce legislation that would provide a mandatory ninety day public beta period on all government funded websites and applications. The public -- who are the ultimate end users -- can provide feedback and suggest improvements that can be integrated as part of the project's original contract price thereby ensuring that future websites and applications are ADA compliant and user friendly.

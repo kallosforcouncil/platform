@@ -2,7 +2,11 @@
 
 submitted by: kallos
 submitted_dt: 
+<<<<<<< HEAD
 upvotes: 391
+=======
+upvotes: 57
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Health
 
 Youth Courts place young offenders in front of people of their own age who decide how offenders will repay the community and their victims. Youth Courts have been shown to be more effective at reducing recidivism than traditional punishment. Red Hook’s youth court, for example, hears an average of 139 cases each year, and more than 90 percent of those who go before the court complete their sanctions -- such as community service, workshops, essays and letters of apology -- as ordered. Crime in Red Hook generally has fallen faster than other neighborhoods in the City and the murder rate has fallen to zero there for several years. Youth courts also teach young people about the justice system, encouraging many to work towards joining a profession in the field. Let’s expand on the success of Youth Courts in New York and create more of them.

@@ -3,9 +3,16 @@
     "title": "Solution for Roosevelt Island: Minimize Impact of Cornell NYC Tech Construction on Roosevelt Island Residents by Bringing Construction Materials by Waterway", 
     "url": "https://kallosforcouncil.com/solution/roosevelt-island/minimize-impact-cornell-nyc-tech-construction-roosevelt-island-residents-b", 
     "explanation": "Construction of the proposed Cornell/Technion campus will lead to more traffic on Roosevelt Island and be unpleasant for many residents. Building a pier and docks near the proposed campus would allow Cornell to transport construction materials via barges and reduce the use of land transport. We must also work with the MTA to determine how to improve and increase Subway Service to Manhattan, especially during the morning commute.", 
+<<<<<<< HEAD
     "submitted_datetime": "2012-09-30T06:44:00", 
     "solution": "Minimize Impact of Cornell NYC Tech Construction on Roosevelt Island Residents by Bringing Construction Materials by Waterway", 
     "submitter": "Snadel1", 
     "upvotes": "398", 
+=======
+    "submitted_datetime": "2012-09-30T05:44:00", 
+    "solution": "Minimize Impact of Cornell NYC Tech Construction on Roosevelt Island Residents by Bringing Construction Materials by Waterway", 
+    "submitter": "Snadel1", 
+    "upvotes": "43", 
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
     "issue": "Roosevelt Island"
 }

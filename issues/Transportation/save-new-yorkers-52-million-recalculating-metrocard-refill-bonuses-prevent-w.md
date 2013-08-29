@@ -2,7 +2,11 @@
 
 submitted by: barbara pearl
 submitted_dt: 
+<<<<<<< HEAD
 upvotes: 363
+=======
+upvotes: 4
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Transportation
 
 $52 million is lost every year as subway and bus riders discard MetroCards with leftover balances. 

@@ -3,4 +3,8 @@
 As founder of WikiLaw.org, I believe that the Government and its body of law should be transparent for the people it governs. As founder of VoterSearch.org, I believe that protecting your right to vote is essential to an accountable government. As former Co-Chair of Community Board 8's Communication Committee, I worked to open the community board by announcingcommunity board membership applications and ensuring they were widely available at meetings. I have continued my work with Community Board 8's Communication Committee and we have made its television show "Community Board 8 Speaks" available online.As your City Council member I will continue the work of making City Hall transparent by making its business available online through the web, PDF, podcast, and YouTube like videos. I will openCity Hall by creating NYC.OpenLegislation.org, a local version of OpenCongress.org, where anyone will be able to share their views on all business, in support of the mission of theParticipatory Politics Foundation. City Hall will become accountable to you the people as NYC.OpenLegislation.org, will let you track business before City Hall and how your representative voted on issues of importance to you.
 
 
+<<<<<<< HEAD
 url: [https://kallosforcouncil.com/solutions/Good Government](https://kallosforcouncil.com/solutions/Good Government)
+=======
+url: [https://kallosforcouncil.com/solutions/good-government](https://kallosforcouncil.com/solutions/good-government)
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6

@@ -2,7 +2,11 @@
 
 submitted by: kallos
 submitted_dt: 
+<<<<<<< HEAD
 upvotes: 397
+=======
+upvotes: 60
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Education
 
 What makes many academic institutions successful is the strength of their alumni association, which often provides financial support to the institution, mentors and internships to the students, and jobs to graduates. The Bronx High School of Science is one prominent example of a public school that benefits from its strong alumni association, creating unparalleled opportunities for its students and graduates. According to the Fund for Public Schools, a non-profit devoted to raising funds for our City’s public schools, only 18 of our City's 1,615 public schools have an alumni association. The Department of Education should work in partnership with the Fund for Public Schools and the Public Advocate to create alumni associations for as many of our public schools as possible and create targeted giving campaigns.

@@ -1,2 +1,6 @@
 *.pyc
 cache
+<<<<<<< HEAD
+=======
+settings_local.py
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6

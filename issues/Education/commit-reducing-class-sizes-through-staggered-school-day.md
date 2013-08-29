@@ -2,7 +2,11 @@
 
 submitted by: kallos
 submitted_dt: 
+<<<<<<< HEAD
 upvotes: 434
+=======
+upvotes: 87
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Education
 
 Mayor Bloomberg and Chancellor Klein have set a goal of 20 students per class from kindergarten through 3rd grade. But they have failed to achieve this limited goal and largely dismissed the importance of class size, with Bloomberg calling it “an interesting number.” Class size in New York City is 10 to 60 percent higher than neighboring suburbs, and higher than anywhere else in the State. Let’s actually achieve our goal of having no more than 20 students per class, rather than focusing on statistics and minor percentage up ticks in less concrete measures of success. One way of reducing class size without extraordinary capital investment is by splitting overcrowded schools into multiple groups with staggered start and end times so that the early schedule starts and ends two hours earlier than the late schedule. All groups would have an eight hour school day with classes that need more individual attention held in these additional time blocks, when there will be more space available.

@@ -2,7 +2,11 @@
 
 submitted by: admin
 submitted_dt: 
+<<<<<<< HEAD
 upvotes: 367
+=======
+upvotes: 58
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Public Safety
 
 

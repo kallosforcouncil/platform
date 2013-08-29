@@ -3,9 +3,16 @@
     "title": "Solution for Good Government: Improve Quality of Public Works and Avoid Project Cost Overruns", 
     "url": "https://kallosforcouncil.com/solution/good-government/improve-quality-public-works-and-avoid-project-cost-overruns", 
     "explanation": "Many New York City contracts currently go to the lowest bidder creating a situation where some bidders have become notorious for bidding less than a project is likely to cost only to recover their costs later through provision in the contract or overruns where the tax payers end up paying more than they expected.\nWe recommend that for projects of a certain size an independent body provide a City agency with a minimum bid that accounts for cost plus statutory profit as a floor for bids. \u00a0Any bids received below that number would be automatically disqualified. \u00a0Bids would also be weighted based on past and current cost overruns, so that a bid of $100 million by a compnay with a history of 20% overruns would be automatically adjusted to $120 million.", 
+<<<<<<< HEAD
     "submitted_datetime": "2012-10-03T11:23:00", 
     "solution": "Improve Quality of Public Works and Avoid Project Cost Overruns", 
     "submitter": "admin", 
     "upvotes": "363", 
+=======
+    "submitted_datetime": "2012-10-03T10:23:00", 
+    "solution": "Improve Quality of Public Works and Avoid Project Cost Overruns", 
+    "submitter": "admin", 
+    "upvotes": "28", 
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
     "issue": "Good Government"
 }

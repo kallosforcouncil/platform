@@ -2,7 +2,11 @@
 
 submitted by: kallos
 submitted_dt: 
+<<<<<<< HEAD
 upvotes: 373
+=======
+upvotes: 77
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Technology
 
 This year President Obama launched DATA.GOV in order to provide the public with increased access to information collected by the Executive Branch of the Federal Government. Following our President's lead, New York City should make government information available in real-time online through a commitment to eight principles of open data written in December of 2007 by thirty open government advocates, including Lawrence Lessig of Stanford University, Micah Sifry of the Sunlight Foundation, who founded the Personal Democracy Forum, David Moore of the Participatory Politics Foundation, Carl Malamud of Public.Resource.org, as well as Google, Yahoo, and O’Reilly Media. The eight principles require data to be (1) complete, (2) primary (with the finest possible granularity), (3) timely, (4) accessible, (5) machine readable, (6) non-discriminatory, (7) non-proprietary (so that no entity has exclusive control), and (8) license free; all of which would require reasonable privacy, security and privilege and full review of compliance.

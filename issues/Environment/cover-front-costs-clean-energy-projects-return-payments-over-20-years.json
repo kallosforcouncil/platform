@@ -3,9 +3,16 @@
     "title": "Solution for Environment: Cover the up-front costs of clean energy projects in return for payments over 20 years.", 
     "url": "https://kallosforcouncil.com/solution/environment/cover-front-costs-clean-energy-projects-return-payments-over-20-years", 
     "explanation": "New York State\u2019s tax incentives for installing solar and wind power lag behind other states and municipalities. One obstacle to the development of this industry is the high upfront costs. While solar and wind energy pay the owner back with energy savings after only a few years, they can cost upwards of $15,000 to install. In some California municipalities, local government pays the upfront costs of the installation of solar panels, and taxes the owner\u2019s use for 20 years. This program would mean home and business owners would see lower energy bills right away, and our government would recoup its investment over time.", 
+<<<<<<< HEAD
     "submitted_datetime": "2012-02-05T01:01:00", 
     "solution": "Cover the up-front costs of clean energy projects in return for payments over 20 years.", 
     "submitter": "kallos", 
     "upvotes": "392", 
+=======
+    "submitted_datetime": "2012-02-05T12:01:00", 
+    "solution": "Cover the up-front costs of clean energy projects in return for payments over 20 years.", 
+    "submitter": "kallos", 
+    "upvotes": "71", 
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
     "issue": "Environment"
 }

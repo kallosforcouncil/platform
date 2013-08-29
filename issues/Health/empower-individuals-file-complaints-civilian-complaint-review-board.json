@@ -3,9 +3,16 @@
     "title": "Solution for Health: Empower individuals to file complaints with the Civilian Complaint Review Board.", 
     "url": "https://kallosforcouncil.com/solution/health-public-safety/empower-individuals-file-complaints-civilian-complaint-review-board", 
     "explanation": "We must ensure that civilians are aware of their ability to file complaints with the Civilian Complaint Review Board (CCRB) and that they are actually able to do so. CCRB information should be pervasive through NYPD materials, appearing on summonses, vehicles (like a\u00a0\u201cHow am I driving?\u201d sticker), literature, infocards and letterheads. Along these lines we must integrate CCRB complaints into 311 so that operators can take complaints over the phone. Community outreach by the Public Advocate and the CCRB would help make the process more approachable for local residents and will help the CCRB to better know each area\u2019s specific problems. Through a commitment to the CCRB, the City can help improve the NYPD and its reputation.", 
+<<<<<<< HEAD
     "submitted_datetime": "2012-02-05T01:01:00", 
     "solution": "Empower individuals to file complaints with the Civilian Complaint Review Board.", 
     "submitter": "kallos", 
     "upvotes": "405", 
+=======
+    "submitted_datetime": "2012-02-05T12:01:00", 
+    "solution": "Empower individuals to file complaints with the Civilian Complaint Review Board.", 
+    "submitter": "kallos", 
+    "upvotes": "54", 
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
     "issue": "Health"
 }

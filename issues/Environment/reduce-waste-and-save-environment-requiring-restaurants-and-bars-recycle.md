@@ -2,7 +2,11 @@
 
 submitted by: chelsea.clime
 submitted_dt: 
+<<<<<<< HEAD
 upvotes: 422
+=======
+upvotes: 65
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Environment
 
 

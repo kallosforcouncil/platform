@@ -3,4 +3,8 @@
 New York City Transit is the life blood of New York City, moving more than 187.9 million passengers per month. However, the Lexington Avenue Subway Line is currently over 150% of capacity. As the City grows we must improve capacity and investigate transportation alternatives. We must find alternative transportation routes for residents of Roosevelt Island by modifying current subway service, trams, ferries, and even building additional subway stations.While we are building any improvements, including the long overdue Second Avenue Subway, we must make sure that the Metropolitan Transportation Authority (MTA) is transparent by making its construction plans available to the people, open to review and suggestions from the community, and accountable should final decisions be made by the MTA without public comment.While the Mayor's Congestion Pricing plan may not have been enacted, it is important not to let a greener New York fall by the wayside. As your City Council member I will work with you to implement initiatives that preserve our environment, improve transportation and make New York City a clean, affordable, and accessible place to live.
 
 
+<<<<<<< HEAD
 url: [https://kallosforcouncil.com/solutions/www.surpriselake.org](https://kallosforcouncil.com/solutions/www.surpriselake.org)
+=======
+url: [https://kallosforcouncil.com/solutions/Tax Reform](https://kallosforcouncil.com/solutions/Tax Reform)
+>>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
