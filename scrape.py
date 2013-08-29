@@ -118,7 +118,7 @@ def main():
             pass
 
         # Write the issue md file.
-        with open('issues/%s/description.md' % issue_name, 'w') as f:
+        with open('issues/%s/README.md' % issue_name, 'w') as f:
             md = issue_tmpl.render(
                 name=issue_name, description=issue_desc, url=url)
             f.write(md.encode('utf-8'))
