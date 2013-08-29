@@ -2,7 +2,7 @@
 
 submitted by: Snadel1
 submitted_dt: 
-upvotes: 19
+upvotes: 367
 issue: Roosevelt Island
 
 There is a need for more playgrounds for toddlers on Roosevelt Island. There are only two swings for little kids on the entire island and no playground in Northtown.

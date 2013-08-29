@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 50
+upvotes: 396
 issue: Technology
 
 As we have grown from a post industrial society to an information economy, “information” itself has become a very valued commodity. On the private side, credit card companies buy and sell your credit reports and magazines share your subscriptions so that others can size you up and market their products to you. On the public side, the government has a long practice of giving information at little to no cost exclusively to special interests and vendors who become the sole source of the information, who hold it as ransom for a windfall when it is licensed. As we seek to free public information from the tight grip of special interests, it is important that the public have an advocate to protect their personal information from exploitation.

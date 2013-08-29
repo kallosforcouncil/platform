@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 47
+upvotes: 421
 issue: Health
 
 Alternative-to-detention (ATD) programs cost about $15,000 per year per youth, compared to more than $200,000 for incarceration in detention facilities, and recurring costs from recidivism. We can expand upon ATD programs by increasing participation, improving educational programs for participants, modifying supervision as an incentive for improved behavior, devising an exit plan with participants upon completing the program, and maintaining data on success rates and techniques to continually improve the program.

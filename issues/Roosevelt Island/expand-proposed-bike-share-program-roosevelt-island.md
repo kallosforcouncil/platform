@@ -2,7 +2,7 @@
 
 submitted by: Snadel1
 submitted_dt: 
-upvotes: 32
+upvotes: 401
 issue: Roosevelt Island
 
 In recent years, bike lanes have been expanded across the entire city and more cyclists have taken advantage of these changes. In March 2013, a city-wide bike-share program will begin with 7,000 bikes and 420 stations. The program will expand to 10,000 bikes and 600 stations by summer 2013. We need to ensure that this program is expanded to Roosevelt Island and place a bike station near the tram.

@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 44
+upvotes: 411
 issue: Health
 
 Transgender individuals must be able to live with the same freedoms as the non-transgendered without fear of accusal for fraud, harassment, discrimination or rejection for showing identification which displays a gender other than the one they display. In order to avoid such discrimination, we should allow transgender individuals to change the sex on their birth certificate or other standard forms of identification without undergoing sex reassignment surgery, while ensuring that people who wish to conceal their identity cannot take advantage of such a program.

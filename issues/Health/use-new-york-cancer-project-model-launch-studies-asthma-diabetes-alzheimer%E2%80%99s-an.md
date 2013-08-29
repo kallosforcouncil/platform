@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 59
+upvotes: 427
 issue: Health
 
 In 1999 the New York Cancer Project -- involving 25 medical schools, academic health centers, and major medical research institutions in New York -- began a 20 year study on New Yorkers to better understand genetic and environmental factors that increase cancer risk. Let’s launch similar initiatives to better understand asthma, diabetes, Alzheimer’s and obesity, using funding from the federal government to build biomedical research capacity, expand local skilled employment, and learn valuable information on diseases that affect numerous New Yorkers.

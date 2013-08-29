@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 46
+upvotes: 395
 issue: Technology
 
 We should use “.nyc” online domains to bring communities together and create a powerful tool for disseminating and aggregating information around a specific area or City topic. The Internet is increasingly central to our City’s civic, commercial, community, and cultural life. While businesses have “.com” and colleges have “.edu” until now New York City has been denied access to its “.nyc” or “dotNYC” (pronounced dot-N-Y-C). But in 2010 “dotNYC” will become available for use by our city’s residents and organizations. Our City should take care to assure that “dotNYC” is used in the public interest to educate and empower City residents and organizations to better connect with one another and the world. For example, by organizing our City’s education resources around the Schools.nyc domain name, we can make our public, private, trade, and professional schools and our universities more accessible to our residents and to the world. ConnectingNYC.org suggests that we also think of “dotNYC” in terms of our neighborhoods, where we can connect with one another using names such as Astoria.nyc, Bensonhurst.nyc, and Chelsea.nyc, using “dotNYC” to build neighborhood identity, trust, and civic pride as residents more easily locate and network with one another to identify issues and organize for their resolution within their dotNeighborhoods. With the lack of significant number of local newspapers, the Internet can be a powerful tool for disseminating local news and opinions.

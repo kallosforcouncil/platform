@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 337
+upvotes: 745
 issue: Jobs
 
 Job and Business Centers can be made more widely available to New Yorkers through a commitment to being multi-lingual, extended hours, expansion of child care availability, and the use of new technology. They should also help applicants gain access to other benefits like a free interview suit offered by a not-for-profit, or pre-kindergarten programs throughout the City to alleviate socioeconomic pressures that might otherwise hinder the jobseeker

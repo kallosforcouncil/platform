@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 63
+upvotes: 427
 issue: Technology
 
 In 1996, Congress passed what is known as the Electronic Freedom of Information Act (E-FOIA), updating the Freedom of Information Act (FOIA) of 1966, amended in 1974 and 1986, to require Federal agencies to automatically put certain materials online in electronic and usable formats. Until we implement “Open Data” in New York City, following the example of Washington, D.C. and other metropolitan areas, the only tool most City residents, reporters and good government groups have is to use is the New York State Freedom of Information Law (FOIL), requesting access to specific records by onsite inspection or through ordering copies at a statutory cost of twenty five cents per page in a process that is supposed to take from five to twenty business days. However, in the days since FOIL was originally written, most data has become electronic and the cost of scanning documents has dropped to a fraction of a cent per page versus copying which remains costly both for materials such as toner and paper as well as for the environment.

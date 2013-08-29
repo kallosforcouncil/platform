@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 52
+upvotes: 411
 issue: Education
 
 Nearly thirty percent of public schools do not have an arts teacher on staff and only eight percent of elementary schools provide mandated arts education. Principles, whose five-figure bonuses are mostly based on test scores and little on the strength of the school's art program - often cut arts programs. In an effort to increase a school's capacity spaces for arts education are often eliminated and replaced with an “art cart.” An art class is a place where a student who has trouble reading finds a unique talent, and a teacher who takes an interest. An art class is a place where a student who feels demoralized by his lack of math skills can foster his own creative way of seeing the world. An art class is a place where a student who is bullied by classmates or lacks a positive parental influence can find a way to express his emotions. Art is not something to be judged based on how well it improves skills in other subjects. Art is, in and of itself, important. Art, more so than math, science or English, is a subject that allows students, and indeed encourages students, to define who they themselves are, bound not by a right or wrong answer, but by the limits of their own imagination. I believe that the future of our City lies in our ability to think creatively and to foster the individualism and entrepreneurship that will spur the innovation that drives our City. Let’s require all schools to provide arts education to help us grow a creative and innovative generation to help maintain New York as “THE Creative City.”

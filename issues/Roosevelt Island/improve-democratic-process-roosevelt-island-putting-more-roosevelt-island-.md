@@ -2,7 +2,7 @@
 
 submitted by: Snadel1
 submitted_dt: 
-upvotes: 29
+upvotes: 407
 issue: Roosevelt Island
 
 Currently, the nine-person RIOC Board of Directors, as well as the President and CEO, are appointed by the Governor with two ex-oficio members representing DHCR and the Budget. Five members of the Board are Island residents. A residency requirement should be implemented for all members of the Board of Directors. Furthermore, RIOC Board members should be elected by Island residents rather than appointed by the Governor.

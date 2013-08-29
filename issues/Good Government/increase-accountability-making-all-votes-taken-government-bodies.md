@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 46
+upvotes: 400
 issue: Good Government
 
 In July the New York City Council finally made its voting information public subsequent to numerous freedom of information law (FOIL) requests and a lawsuit by the New York Times. As Public Advocate, we will use the position as Chair of COPIC and “Charter Cop” to ensure that future FOIL requests are complied with and that records of public meetings like those of the City Council and other agencies are available to the public over the Internet.

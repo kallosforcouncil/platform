@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 341
+upvotes: 918
 issue: Technology
 
 

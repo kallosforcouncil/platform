@@ -2,7 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-upvotes: 60
+upvotes: 397
 issue: Technology
 
 Chapter 47 of the New York City Charter which pertains to Public Access to Meetings and Information specifically provides for a “public data directory” that COPIC must publish annually listing the computerized information maintained by City agencies, with the requirement that the Mayor and agencies provide the information and assistance as required by COPIC. By fully exercising the Public Advocate’s power as Chair of COPIC, we can force the Mayor and our City agencies to help create a list of all available computerized information in a “public data directory” at “Data.NYC.GOV.”

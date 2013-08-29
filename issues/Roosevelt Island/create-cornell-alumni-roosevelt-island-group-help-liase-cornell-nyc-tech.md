@@ -2,7 +2,7 @@
 
 submitted by: Snadel1
 submitted_dt: 
-upvotes: 19
+upvotes: 367
 issue: Roosevelt Island
 
 Worried that Cornell will be unresponsive to Roosevelt Island concerns. A Cornell alumni group on Roosevelt Island could help with the communication between Cornell and the community.

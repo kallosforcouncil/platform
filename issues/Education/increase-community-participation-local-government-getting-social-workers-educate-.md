@@ -2,7 +2,7 @@
 
 submitted by: Andrew Frank
 submitted_dt: 
-upvotes: 43
+upvotes: 405
 issue: Education
 
 Specifically, low income communities where voter turnout is extremely low.  Having caseworkers and social workers edcuating clients will empower the community, help combat the psychological effects of learned helplessness, get community members more invested in their community, and increase voter turnout.
