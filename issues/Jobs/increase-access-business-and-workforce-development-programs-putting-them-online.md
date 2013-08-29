@@ -2,11 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 398
-=======
-upvotes: 75
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Jobs
 
 Internet can make our business and workforce development centers and the courses they offer more accessible. The program that we envision would follow the “TED.com: Ideas Worth Spreading” model (the YouTube just for great ideas) by working with our City’s educational institutions to bring innovative and compelling experts to lecture. Speakers would be digitized and accessible with multilingual captions or dubbing for jobseekers and entrepreneurs all over our City to watch from the comfort of their own home.

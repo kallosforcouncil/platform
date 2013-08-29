@@ -2,11 +2,7 @@
 
 submitted by: admin
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 363
-=======
-upvotes: 28
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Good Government
 
 Many New York City contracts currently go to the lowest bidder creating a situation where some bidders have become notorious for bidding less than a project is likely to cost only to recover their costs later through provision in the contract or overruns where the tax payers end up paying more than they expected.

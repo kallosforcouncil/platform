@@ -2,11 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 391
-=======
-upvotes: 71
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Technology
 
 President Obama recently created the role of Chief Information Officer for the Federal government and appointed Washington, D.C.'s Chief Technology Officer Vivek Kundra to serve our nation. Having a city-wide Chief Technology Officer helped the District of Columbia spur the development of open and crowd-sourced software, cloud-based web applications, and led to the "Apps for Democracy" initiative. By following President Obama’s and Washington, D.C.'s lead, a New York City Chief Information Officer can help focus City Hall to make sure that New York City sees similar advances bringing about a new era of transparency, accountability and openness.

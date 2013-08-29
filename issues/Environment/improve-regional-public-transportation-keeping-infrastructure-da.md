@@ -2,11 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 416
-=======
-upvotes: 64
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Environment
 
 Even with the most recent bailout, the Metropolitan Transportation Authority will face budget shortfalls in the future. Meanwhile, our transit system continues to carry one-third of the nation's transit passengers who, according to NYPIRG, pay nearly twice as high a percentage of system operative costs than the national average. We must (a) base funding decisions on current ridership, future ridership and perspective City growth, (b) create a dedicated funding stream so that money people think is going to infrastructure improvements does not get spent elsewhere, and (c) give the City and State Comptroller the power to do full audits of the MTA's finances and records.

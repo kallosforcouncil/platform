@@ -2,11 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 391
-=======
-upvotes: 66
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Jobs
 
 A 2008 study by the Public Advocate Betsy Gotbaum found that the majority of welfare applicants experienced long waits, received misleading information and had to come back multiple times. Let’s reform our Job Centers by (a) ensuring applicants receive clearly written materials on requirements for applications and compliance, (b) reducing wait times and (c) better training workers to improve customer service. The City Council should pass the Ready Access to Assistance Act, to allow applicants to enlist an advocate on their behalf to help them better navigate the system, and to allow non-profits to set up tables in the office’s public areas to better assist applicants.

@@ -2,11 +2,7 @@
 
 submitted by: jstrong
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 343
-=======
-upvotes: 5
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Roosevelt Island
 
 Roosevelt Island deserves more than to have access to elected officials once a month during constituent hours or when an elected official is there for a campaign.  The City Council Member, State Assembly Member, State Senator, and Congress Member should take a joint lease on a single location where a staff could be easily accessible for any Roosevelt Island resident to just walk in get the government services they need.   Roosevelt Island residents should not have to take a bus to a tram to a train to a bus to an office then back again, Government should come to them.

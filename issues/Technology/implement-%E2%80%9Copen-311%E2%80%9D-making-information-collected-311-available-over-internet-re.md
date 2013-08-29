@@ -2,11 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 376
-=======
-upvotes: 63
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Technology
 
 ""Open 311"" would be the next logical step for the 311 by allowing for the open collection and dissemination of information relating to government services over the Internet and other communications methods in real time. The key element would be to allow the vast network of Internet users to develop their own applications for interacting with this important information. The City of Washington, D.C. has already implemented this reform, providing savings through direct input by users, lowering call volume by publishing what’s already been submitted and when, enhancing accountability and transparency by showing when real problems are growing or have been fixed -- and most importantly, it can provide an opportunity for civic participation and building a culture of competition for serving your community.

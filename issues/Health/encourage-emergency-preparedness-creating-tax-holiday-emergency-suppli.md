@@ -2,11 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 425
-=======
-upvotes: 65
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Health
 
 The New York City Office of Emergency Management recommends that residents prepare for emergencies by buying and storing certain basic emergency supplies as well as creating “Go Bags.” Unfortunately, few have the requisite emergency supplies. Fewer still have heard of a “Go Bag,” which is a collection of items you may need in the event of an emergency packed in an easy to carry container that is accessible in case you need to leave your home in a hurry. By providing an initial New York City sales tax holiday from September 1 through September 11 for individual emergency supplies, with a sales tax holiday for pre-made “Go Bags” for the month of September, we can encourage New Yorkers to begin to be prepared for whatever emergency they may face. New York State Assembly Member Jonathan Bing has introduced legislation on this issue and Florida enacted a similar tax free period aimed at hurricane preparedness in 2006.

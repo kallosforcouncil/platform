@@ -2,11 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 516
-=======
-upvotes: 102
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Affordable Housing
 
 In 1975 the City of New York departed from a comprehensive centralized City-wide master plan when it recognized the importance of community planning under Section 197-a, and was further expanded in 1989 when New York City’s 59 Community Boards were empowered to develop local land use development plans and retain professional experts. Unfortunately, Community Board offices are under-funded and under-staffed for the hundreds of thousands of people they represent and are often unable to propose a community 197-a plan, with a price tag of $50,000 to $250,000. Of the nine proposed between 1989 and 2004, only seven were adopted by the City Planning Commission and the City Council. But even the seven adopted have largely gone ignored in favor of development in response to special interests and market forces instead of actual City planning. There are countless stories of abandoned community 197-a plans like Greenpoint and Williamsburg begging for affordable housing and preservation of manufacturing jobs only to be given luxury high-rise condominiums.

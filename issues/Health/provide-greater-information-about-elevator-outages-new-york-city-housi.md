@@ -2,11 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 416
-=======
-upvotes: 57
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Health
 
 Elevators in New York City Housing Authority (NYCHA) buildings are plagued by problems, with 75 percent failing routine inspection. Since 2001 about 300 residents have been injured in elevator related accidents in buildings maintained by the City's public housing agency. The elderly and disabled are affected the most, making it hard or impossible to leave their apartment when elevator service is down. This problem can be addressed in the interim by adding transparency and notice while we work to fix the underlying problems. A list of NYCHA elevators and their current status as functioning or in need of repairs must be put online in accordance with open data standards. NYC Alert must be leveraged to alert NYCHA residents when their elevators are out of service through robo-calls, text messages, or emails to prevent deaths or injuries from faulty elevators. NYCHA must work with social service programs such as Meal on Wheels to provide food and medical care to stranded seniors and the disabled. The Public Advocate should write an amicus curiae in support of the current federal lawsuit to compel NYCHA to fix elevators and provide help to disabled residents when elevators are not working.

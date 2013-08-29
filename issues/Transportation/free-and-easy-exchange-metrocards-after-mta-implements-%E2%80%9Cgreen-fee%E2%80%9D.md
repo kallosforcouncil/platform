@@ -2,11 +2,7 @@
 
 submitted by: barbara pearl
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 343
-=======
-upvotes: 2
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Transportation
 
 The MTA loses $13 million annually printing over 170 million MetroCards.  In an effort to reduce the financial and environmental costs of printing, the MTA plans to implement a “Green Fee.”  This year, riders will pay a one-dollar charge for printing a new MetroCard.  The MTA claims this will raise $20 million, costing riders as much as $33 million every year.  Riders will not be charged to replace expired MetroCards or refill old MetroCards.

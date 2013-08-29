@@ -2,11 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 390
-=======
-upvotes: 63
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Technology
 
 Universal Internet is vital for making information accessible for local residents -- became a reality last month with a $500 million high-speed wireless network for all 300+ square miles of New York City. While this network is currently reserved for first responders, we must expand Universal Internet, whether through universal broadband or wireless, to the general public so that everyone in the city has some form of access. New York City as a whole has some of the slowest Internet connections at a higher cost than most other cities in the country, which means jobs lost to more connected cities. We should work with our phone and cable companies (that exist as limited monopolies which have access to much of our City’s infrastructure at little to no cost) to provide a better Internet at a lower cost. Another benefit to Universal Internet would be added public safety from the ability to display emergency messages to every web browser in the City in the event of another major emergency. Improvements to current commercial Internet connections coupled with cost reductions and the availability of Universal Internet will be one of the major catalysts New York City needs to leap into the twenty-first century as “THE Creative City.”

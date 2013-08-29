@@ -2,11 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 411
-=======
-upvotes: 75
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Education
 
 "Disconnected youth" is a growing problem for New York City with more than 220,000 young people ages 16 to 24 who are not in school and are not employed.

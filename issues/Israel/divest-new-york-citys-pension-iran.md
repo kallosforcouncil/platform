@@ -2,11 +2,7 @@
 
 submitted by: admin
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 332
-=======
-upvotes: 10
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Israel
 
 The Iran Divestment Act of 2012 should be strengthened and extended to prohibit any investment of the state’s pension fund or a municipality’s pension fund in companies that do business with Iran.  This will codify the existing policies enacted by the city and state comptrollers. 

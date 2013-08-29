@@ -2,11 +2,7 @@
 
 submitted by: kallos
 submitted_dt: 
-<<<<<<< HEAD
 upvotes: 392
-=======
-upvotes: 70
->>>>>>> 15c8675dc1f428ee1a0ca1c4ab9c452466fd40e6
 issue: Education
 
 New York City currently spends about $14,000 per student. The cost of providing “One Laptop Per Child (OLPC) would be less than 1.5 percent of the cost per student. A $200 netbook buys a student the tools they need to compete in a computer based workforce. This would be coupled with a commitment to universal internet by allowing students on our City’s new wireless system or by asking cable and phone companies to provide public school students with free wireless internet in exchange for their limited monopolies. Give a child a laptop and we break the chains of social and economic inequity so they may join the information based economy of the 21st century.
