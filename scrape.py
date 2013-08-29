@@ -19,22 +19,22 @@ solution_tmpl = env.get_template('solution.txt')
 issue_tmpl = env.get_template('issue.txt')
 
 request_defaults = {
-    'timeout': 5.0,
-    'headers': {
-        'Accept': ('text/html,application/xhtml+xml,application/'
-                   'xml;q=0.9,*/*;q=0.8'),
-        'Accept-Encoding': 'gzip, deflate',
-        'Accept-Language': 'en-us,en;q=0.5',
-        'Connection': 'keep-alive',
-        },
+    # 'timeout': 5.0,
+    # 'headers': {
+    #     'Accept': ('text/html,application/xhtml+xml,application/'
+    #                'xml;q=0.9,*/*;q=0.8'),
+    #     'Accept-Encoding': 'gzip, deflate',
+    #     'Accept-Language': 'en-us,en;q=0.5',
+    #     'Connection': 'keep-alive',
+    #     },
     'follow_robots': False,
     }
 
 if settings.DEBUG:
     request_defaults.update({
-        'requests_per_minute': 0,
-        'cache_write_only': False,
-        'cache_obj': FileCache('cache')
+        # 'requests_per_minute': 0,
+        # 'cache_write_only': False,
+        # 'cache_obj': FileCache('cache')
         })
 session = Scraper(**request_defaults)
 
